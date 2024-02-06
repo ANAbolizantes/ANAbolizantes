@@ -1,6 +1,9 @@
+### Olá
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANAbolizantes)](https://github.com/ANAbolizantes/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANAbolizantes&show_icons=true&theme=synthwave)
 
-### Hi there 👋
+
 
 <!--
 **ANAbolizantes/ANAbolizantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
