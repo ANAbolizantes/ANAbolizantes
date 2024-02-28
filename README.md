@@ -1,8 +1,6 @@
 ### Hi, I'm Ana, be very welcome!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANAbolizantes&show_icons=true&theme=synthwave)
-
 
 
 <!--
